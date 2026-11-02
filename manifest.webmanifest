@@ -1,0 +1,11 @@
+{
+  "name": "Answer Sorter",
+  "short_name": "Sorter",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#1f5f4a",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
